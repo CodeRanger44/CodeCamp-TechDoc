@@ -1,0 +1,51 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<header>
+    <div id="logo">HTML</div>
+    <nav>  
+        <ul>
+            <li><a href="/">Home</a>
+            <li><a href="/link">Page</a>
+        </ul>
+    </nav>
+</header>
+<style>
+</style>
+<main id="main-doc">
+  <section class="main-section" id="Faith">
+    <header>Faith</header>
+    <code></code>
+    <p>P1</p>
+    <p>P2</p>
+  </section>  
+  <section class="main-section" id="Finances">
+    <header>Finances</header>
+    <code></code>
+    <p>P1</p>
+    <p>P2</p>
+  </section> 
+  <section class="main-section" id="Fitness">
+    <header>Fitness</header>
+    <code></code>
+    <p>P1</p>
+    <p>P2</p>
+  </section> 
+  <section class="main-section" id="Service">
+    <header>Service</header>
+    <code></code>
+    <p>P1</p>
+    <p>P2</p>
+  </section> 
+  <section class="main-section" id="relationships">
+    <header>Relationships</header>
+    <code></code>
+    <p>P1</p>
+    <p>P2</p>
+  </section> 
+</main>
+<footer>
+    <p>&copy; HTML CheatSheet</p>
+    <address>
+        Contact <a href="mailto:me@htmlg.com">me</a>
+    </address>
+</footer>
