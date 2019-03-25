@@ -1,8 +1,7 @@
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-
-<header>
-    <div id="logo">HTML</div>
-    <nav>  
+<html>
+<header>This doc references ifnormation important to Raymond's focus areas and associated goals.
+    <nav id="navbar">  
         <ul>
             <li><a href="/">Home</a>
             <li><a href="/link">Page</a>
@@ -44,8 +43,9 @@
   </section> 
 </main>
 <footer>
-    <p>&copy; HTML CheatSheet</p>
+    <p>&copy; Ranger44</p>
     <address>
-        Contact <a href="mailto:me@htmlg.com">me</a>
+        Contact <a href="mailto:raymondlosborne@hotmail.com">me</a>
     </address>
 </footer>
+</html>
