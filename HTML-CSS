@@ -1,4 +1,5 @@
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
 <html>
 <header>This doc references ifnormation important to Raymond's focus areas and associated goals.
     <nav id="navbar">  
@@ -10,36 +11,59 @@
 </header>
 <style>
 </style>
+  <br>
 <main id="main-doc">
   <section class="main-section" id="Faith">
     <header>Faith</header>
-    <code></code>
-    <p>P1</p>
-    <p>P2</p>
-  </section>  
+    <ul>
+      <li>
+    <code>In order to change the color of this section one could use style element with:<br> section {color: red;}</code></li></ul>
+    <p>Goal: Attend Flatirons at least twice a month</p>
+    <p>Goal: Pray for my loved ones</p>
+  </section>
+  <br>
   <section class="main-section" id="Finances">
     <header>Finances</header>
-    <code></code>
-    <p>P1</p>
-    <p>P2</p>
+   <ul>
+     <li>
+       <code>In order to change the color of this section one could use style element with:<br> section {color: orange;}</code>
+     </li>
+     </UL>
+    <p>Goal: $210K net Worth</p>
+    <p>Goal: Credit Score 800+</p>
   </section> 
+  <br>
   <section class="main-section" id="Fitness">
     <header>Fitness</header>
-    <code></code>
-    <p>P1</p>
-    <p>P2</p>
+    <ul>
+      <li>
+        <code>In order to change the color of this section one could use style element with:<br> section {color: yellow;}</code>
+      </li>
+    </ul>
+    <p>Goal: Get Under 200lb and maintain</p>
+    <p>Goal: Do a 1/2 marathon</p>
   </section> 
+  <br>
   <section class="main-section" id="Service">
     <header>Service</header>
-    <code></code>
-    <p>P1</p>
-    <p>P2</p>
+    <ul>
+      <li>
+        <code>In order to change the color of this section one could use style element with:<br> section {color: green;}</code>
+      </li>
+    </ul>
+    <p>Goal: reach the 110 hour committment</p>
+    <p>Goal: look into church security</p>
   </section> 
+  <br>
   <section class="main-section" id="relationships">
     <header>Relationships</header>
-    <code></code>
-    <p>P1</p>
-    <p>P2</p>
+    <ul>
+      <li>
+        <code>In order to change the color of this section one could use style element with:<br> section {color: blue;}</code>
+      </li>
+    </ul>
+    <p>Goal: See my kids and grandson at least once per week</p>
+    <p>Goal: Cultivate new friendships</p>
   </section> 
 </main>
 <footer>
