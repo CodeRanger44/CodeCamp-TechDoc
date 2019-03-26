@@ -4,11 +4,11 @@
   <nav id="navbar">
     <header>This doc references ifnormation important to Raymond's focus areas and associated goals.</header>
         <ul>
-            <li><a href="/">Faith</a>
-            <li><a href="/link">Finances</a>
-     <li><a href="/link">Fitness</a>
-   <li><a href="/link">Service</a>
- <li><a href="/link">Relationships</a>
+            <li><a href="/red" class="nav-link">Faith</a>
+            <li><a href="/orange" class="nav-link">Finances</a>
+     <li><a href="/yellow" class="nav-link">Fitness</a>
+   <li><a href="/green" class="nav-link">Service</a>
+ <li><a href="/blue" class="nav-link">Relationships</a>
         </ul>
     </nav>
 <style>
@@ -31,7 +31,7 @@
   <br>
 <main id="main-doc">
   <section class="main-section" id="Faith">
-    <header>Faith</header>
+    <header class="faith">Faith</header>
     <ul>
       <li>
     <code class="red">In order to change the color of this section one could use style element with:<br> section {color: red;}</code></li></ul>
@@ -40,7 +40,7 @@
   </section>
   <br>
   <section class="main-section" id="Finances">
-    <header>Finances</header>
+    <header class="finances">Finances</header>
    <ul>
      <li>
        <code class="orange">In order to change the color of this section one could use style element with:<br> section {color: orange;}</code>
@@ -51,7 +51,7 @@
   </section> 
   <br>
   <section class="main-section" id="Fitness">
-    <header>Fitness</header>
+    <header class="fitness">Fitness</header>
     <ul>
       <li>
         <code class="yellow">In order to change the color of this section one could use style element with:<br> section {color: yellow;}</code>
@@ -62,7 +62,7 @@
   </section> 
   <br>
   <section class="main-section" id="Service">
-    <header>Service</header>
+    <header class="service">Service</header>
     <ul>
       <li>
         <code class="green">In order to change the color of this section one could use style element with:<br> section {color: green;}</code>
@@ -73,7 +73,7 @@
   </section> 
   <br>
   <section class="main-section" id="relationships">
-    <header>Relationships</header>
+    <header class="relationships">Relationships</header>
     <ul>
       <li>
         <code class="blue">In order to change the color of this section one could use style element with:<br> section {color: blue;}</code>
