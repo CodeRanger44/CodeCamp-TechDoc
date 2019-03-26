@@ -10,6 +10,21 @@
     </nav>
 </header>
 <style>
+   .red {
+    color: red;
+  }
+  .orange {
+    color: orange;
+  }
+  .yellow {
+    color: yellow;
+  }
+  .green {
+    color: green;
+  }
+  .blue {
+    color: blue;
+  }
 </style>
   <br>
 <main id="main-doc">
@@ -17,7 +32,7 @@
     <header>Faith</header>
     <ul>
       <li>
-    <code>In order to change the color of this section one could use style element with:<br> section {color: red;}</code></li></ul>
+    <code class="red">In order to change the color of this section one could use style element with:<br> section {color: red;}</code></li></ul>
     <p>Goal: Attend Flatirons at least twice a month</p>
     <p>Goal: Pray for my loved ones</p>
   </section>
@@ -26,7 +41,7 @@
     <header>Finances</header>
    <ul>
      <li>
-       <code>In order to change the color of this section one could use style element with:<br> section {color: orange;}</code>
+       <code class="orange">In order to change the color of this section one could use style element with:<br> section {color: orange;}</code>
      </li>
      </UL>
     <p>Goal: $210K net Worth</p>
@@ -37,7 +52,7 @@
     <header>Fitness</header>
     <ul>
       <li>
-        <code>In order to change the color of this section one could use style element with:<br> section {color: yellow;}</code>
+        <code class="yellow">In order to change the color of this section one could use style element with:<br> section {color: yellow;}</code>
       </li>
     </ul>
     <p>Goal: Get Under 200lb and maintain</p>
@@ -48,7 +63,7 @@
     <header>Service</header>
     <ul>
       <li>
-        <code>In order to change the color of this section one could use style element with:<br> section {color: green;}</code>
+        <code class="green">In order to change the color of this section one could use style element with:<br> section {color: green;}</code>
       </li>
     </ul>
     <p>Goal: reach the 110 hour committment</p>
@@ -59,7 +74,7 @@
     <header>Relationships</header>
     <ul>
       <li>
-        <code>In order to change the color of this section one could use style element with:<br> section {color: blue;}</code>
+        <code class="blue">In order to change the color of this section one could use style element with:<br> section {color: blue;}</code>
       </li>
     </ul>
     <p>Goal: See my kids and grandson at least once per week</p>
