@@ -2,14 +2,15 @@
 
 <html>
   <nav id="navbar">
-    <header>This doc references ifnormation important to Raymond's focus areas and associated goals.</header>
+    <header>This doc references information important to Raymond's focus areas and associated goals.header
         <ul>
             <li><a href="#faith" class="nav-link">Faith</a>
             <li><a href="#finances" class="nav-link">Finances</a>
      <li><a href="#fitness" class="nav-link">Fitness</a>
    <li><a href="#service" class="nav-link">Service</a>
  <li><a href="#relationships" class="nav-link">Relationships</a>
-        </ul>
+      </ul>
+     </header>
     </nav>
 <style>
    .red {
@@ -27,9 +28,16 @@
   .blue {
     color: blue;
   }
+  nav {
+      top: 0px;
+      left: 0px;
+      position: fixed;
+      display: flex;
+    }
 </style>
   <br>
 <main id="main-doc">
+  <br><br><br><br><br><br><br>
   <section class="main-section" id="faith">
     <header id="faith">Faith</header>
     <ul>
